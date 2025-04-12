@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+body {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+/* header .top-strip {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+} */
+
+/* .bg-org {
+    background: #ff5252;
+} */
+
+.link:hover {
+    color: #ff5252;
+}
+
+.MuiBadge-badge {
+    background-color: #ff5252 !important;
+}
